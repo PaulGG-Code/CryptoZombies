@@ -27,7 +27,7 @@ truffle migrate --reset
 The idea is keeping this code as close as [the course](https://cryptozombies.io), but with the help of Truffle.
 It's not covered in the course (yet), but testing suite would be nice to have.
 
-Have fun and PR please!
+Have fun and PR please! 🧐 
 
 ### More info
 * Please see the [Official Truffle Documentation](http://truffleframework.com/docs/) for guides, tips, and examples.
